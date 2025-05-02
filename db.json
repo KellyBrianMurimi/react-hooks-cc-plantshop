@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Artificial Plant",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTeLac1P3W5RDO864dphC4w1JKcj7n_F3z18Sl52pMj4HM-sqXDFLniLfUnRbCUu4F_VD3zOpsncd3jskVrbvc1ow2F5U5ifcFrAPBuHyE4fWxSjB4NC_CGnXw&usqp=CAc",
+      "price": null,
+      "id": 8
     }
   ]
 }
